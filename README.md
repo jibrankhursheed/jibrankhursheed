@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-It's me Jibran Khursheed 
+It's me Jibran Khursheed :man_technologist:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jibrankhursheed&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+
