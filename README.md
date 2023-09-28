@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 It's me Jibran Khursheed :man_technologist:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jibrankhursheed&theme=chartreuse-dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=jibrankhursheed&theme=chartreuse-dark)
 
 
