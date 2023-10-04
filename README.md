@@ -1,21 +1,16 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**jibrankhursheed/jibrankhursheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=28&duration=1&pause=1000&color=23B8FF&center=true&vCenter=true&repeat=false&width=435&lines=Jibran+Khursheed)
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&weight=300&size=23&duration=2000&pause=1000&color=23B8FF&center=true&vCenter=true&width=435&lines=Android+Developer;JAVA+%7C+Kotlin+%7C+MVVM;REST+API+%7C+Room+%7C+Firebase;JSON+%7C+DI+%7C+Git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-It's me Jibran Khursheed :man_technologist:
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibrankhursheed)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jibrankhursheed?label=Follow&style=for-the-badge&logo=x&logoColor=white&labelColor=black&color=black)](https://www.twitter.com/jibrankhursheed)
+![](https://komarev.com/ghpvc/?username=jibrankhursheed&style=for-the-badge)
+<br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jibrankhursheed&theme=transparent)
+
+
+</div>
+
 
