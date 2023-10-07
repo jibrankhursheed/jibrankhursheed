@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibrankhursheed)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jibrankhursheed?label=Follow&style=for-the-badge&logo=x&logoColor=white&labelColor=black&color=black)](https://www.twitter.com/jibrankhursheed)
 ![](https://komarev.com/ghpvc/?username=jibrankhursheed&style=for-the-badge)
-<br><br>
+<br><br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jibrankhursheed&theme=transparent)
 
 
