@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&weight=300&size=23&duration=2000&pause=1000&color=23B8FF&center=true&vCenter=true&width=435&lines=Android+Developer+%7C+Flutter+Developer;JAVA+%7C+Kotlin+%7C+Dart+%7C+MVVM;REST+API+%7C+Room+%7C+Firebase;JSON+%7C+DI+%7C+Git)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,flutter,java,kotlin,dart,firebase,materialui,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,flutter,java,kotlin,dart,firebase,materialui,postman,gcp" />
   </a>
 </p>
 <br>
